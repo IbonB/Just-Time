@@ -2,7 +2,7 @@
 ![image](https://github.com/IbonB/Just-Time/assets/151823683/5a9c1c14-a34c-4c15-9666-19cf0e1ff517)
 
 ---------
-PROYECTO
+PRESENTACIÓN
 ---------
 Somos unos alumnos de la escuela de Armeria y se nos ha propuesto el reto de crear el juego Just Time. Para llevar acabo este proyecto hemos tenido que usar diferentes componentes como un FPGA, encoders, leds, etc.
 Y para acabar con el proyecto se nos ha encomendado crear este repositorio con todo lo que hemos hecho. 
