@@ -1,5 +1,11 @@
 # JUST TIME
-Hemos creado el juego Just time, para llevar acabo este proyecto hemos usado un FPGA para programar el juego mediante el uso de puertas lógicas.
+![image](https://github.com/IbonB/Just-Time/assets/151823683/5a9c1c14-a34c-4c15-9666-19cf0e1ff517)
+
+---------
+JUST TIME
+---------
+Hemos creado el juego Just Time. Para llevar acabo este proyecto hemos usado un FPGA, para programar el juego mediante el uso de puertas lógicas.
+
 
 ----------------------
 EXPLICACIÓN DEL JUEGO
