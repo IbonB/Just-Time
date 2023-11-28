@@ -34,6 +34,7 @@ Programas usados
 ----------------
 - [Multisim](https://www.ni.com/es/support/downloads/software-products/download.multisim.html#452133)
 - [ICEstudio](https://icestudio.io/#lk-download)
+
   ---------
   Librerías
   ---------
