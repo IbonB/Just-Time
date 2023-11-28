@@ -14,3 +14,18 @@ EXPLICACIÓN DEL JUEGO
 Lo primero, con una ruleta se fijara un tiempo, despues se tendrá que pulsar un boton con el que empezara el contage y para acabar, mediante el mismo
 pulsador se tendrá que adivinar cuando habrá llegado al tiempo prefijado y se encenderan los displays donde se mostrara el tiempo logrado. 
 En caso de haber acertado se encendera un led. Para volver a jugar tendremos que pulsar otro pulsador para reiniciar el juego.
+
+-----------
+COMPONENTES
+-----------
+- Leds
+- Knitter-switch/Encoding switch (Decimal -> BCD)
+- Displays de 7 segmentos
+- Resistencias (Para los displays 8 de 220Ω y para los pull down del encoder 4 de 1KΩ)
+- Cable de conexión (USB -> Micro USB)
+- Placa de desarrollo Alhambra 2
+
+------------
+-Alhambra 2
+------------
+![image](https://github.com/IbonB/Just-Time/assets/151823683/162319a9-bb91-49eb-93ab-df41c4b833fe)
