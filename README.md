@@ -4,7 +4,7 @@
 ---------
 PRESENTACIÓN
 ---------
-Somos unos alumnos de la escuela de Armeria y se nos ha propuesto el reto de crear el juego Just Time. Para llevar acabo este proyecto hemos tenido que usar diferentes componentes como un FPGA, encoders, leds, etc.
+Somos tres alumnos de la escuela de Armeria y se nos ha propuesto el reto de crear el juego Just Time. Para llevar acabo este proyecto hemos tenido que usar diferentes componentes como un FPGA, encoders, leds, etc.
 Y para acabar con el proyecto se nos ha encomendado crear este repositorio con todo lo que hemos hecho. 
 
 ----------------------
