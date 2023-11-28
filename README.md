@@ -38,4 +38,5 @@ Programas usados
   Librerías
   ---------
   - [ICEstudio (Librería de Obijuan)](https://github.com/FPGAwars/Collection-Jedi)
+  - [GitHub Obijuan](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki)
 
