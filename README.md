@@ -20,7 +20,7 @@ COMPONENTES
 -----------
 - Leds
 - Knitter-switch/Encoding switch (Decimal -> BCD)
-- Displays de 7 segmentos
+- Displays de 7 segmentos (En nuestro caso hemos usado de catodo comun)
 - Resistencias (Para los displays 8 de 220Ω y para los pull down del encoder 4 de 1KΩ)
 - Cable de conexión (USB -> Micro USB)
 - Placa de desarrollo Alhambra 2
