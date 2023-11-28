@@ -6,7 +6,6 @@ JUST TIME
 ---------
 Hemos creado el juego Just Time. Para llevar acabo este proyecto hemos usado un FPGA, para programar el juego mediante el uso de puertas lógicas.
 
-
 ----------------------
 EXPLICACIÓN DEL JUEGO
 ----------------------
@@ -29,3 +28,14 @@ COMPONENTES
 -Alhambra 2
 ------------
 ![image](https://github.com/IbonB/Just-Time/assets/151823683/162319a9-bb91-49eb-93ab-df41c4b833fe)
+
+----------------
+Programas usados
+----------------
+- [Multisim](https://www.ni.com/es/support/downloads/software-products/download.multisim.html#452133)
+- [ICEstudio](https://icestudio.io/#lk-download)
+  ---------
+  Librerías
+  ---------
+  - [ICEstudio (Librería de Obijuan)](https://github.com/FPGAwars/Collection-Jedi)
+
