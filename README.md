@@ -11,8 +11,8 @@ Y para acabar con el proyecto se nos ha encomendado crear este repositorio con t
 EXPLICACIÓN DEL JUEGO
 ----------------------
 
-Lo primero, con una ruleta se fijara un tiempo, despues se tendrá que pulsar un boton con el que empezara el contage y para acabar, mediante el mismo
-pulsador se tendrá que adivinar cuando habrá llegado al tiempo prefijado y se encenderan los displays donde se mostrara el tiempo logrado. 
+Lo primero, con una encoder se fijara un tiempo, despues se tendrá que pulsar un boton con el que empezara el contage y se apagaran los displays. Para acabar, mediante el mismo
+pulsador se tendrá que adivinar cuando habrá llegado al tiempo prefijado y despues de pulsar se encenderan los displays donde se mostrara el tiempo logrado. 
 En caso de haber acertado se encendera un led. Para volver a jugar tendremos que pulsar otro pulsador para reiniciar el juego.
 
 -----------
